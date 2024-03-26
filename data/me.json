@@ -3,35 +3,29 @@
     "An initiate of programming.",
     "An open-source contributor.",
     "An Apple platform developer.",
-    "A web developer.",
-    "A Rustacean.",
     "A lifelong learner.",
-    "A console gamer.",
-    "A person who don't believe in fate."
+    "A traveler."
   ],
   "links": [
     {
       "title": "GitHub",
       "icon": "github",
-      "url": "https://github.com/unixzii"
+      "url": "https://github.com/Bill-Haku"
     },
     {
       "title": "Twitter",
       "icon": "twitter",
-      "url": "https://twitter.com/unixzii"
+      "url": "https://twitter.com/Haku_Bill"
     },
     {
       "title": "Instagram",
       "icon": "instagram",
-      "url": "https://www.instagram.com/unixzii"
+      "url": "https://www.instagram.com/haku_bill"
     },
-    { "title": "Blog", "url": "/blog" },
+    { "title": "Blog", "url": "https://blog.hakubill.tech" },
     {
       "title": "YouTube",
-      "url": "https://www.youtube.com/channel/UCLr5iLa3ivr7kISqAdlGZjA"
-    },
-    { "title": "Telegram", "url": "https://t.me/cyandev" },
-    { "title": "知乎", "url": "https://www.zhihu.com/people/cyandev" },
-    { "title": "微博", "url": "https://weibo.com/u/2834711045" }
+      "url": "https://www.youtube.com/channel/UC0ABPKMmJa2hd5nNKh5HGqw"
+    }
   ]
 }
